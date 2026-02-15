@@ -77,7 +77,7 @@ List of programs and tools I use.
 | `$mainMod + M` | Exit Hyprland / Shutdown menu |
 | `$mainMod + E` | Open file manager (`$fileManager`) |
 | `$mainMod + V` | Toggle floating mode |
-| `Super_L` (Tap) | Launch app menu (Rofi) |
+| `Super_L` | Launch app menu (Rofi) |
 | `$mainMod + P` | Toggle pseudo layout |
 | `$mainMod + J` | Toggle split |
 | `$mainMod + Shift + S` | Screenshot |
