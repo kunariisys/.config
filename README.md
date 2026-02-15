@@ -12,7 +12,7 @@
 <details>
 <summary>Click to view All Dependencies</summary>
 
-### Core Dependencies
+### Basic Dependencies
 ```text
 hyprland
 waybar
@@ -25,14 +25,19 @@ hyprshot
 Adwaita Font
 catnap
 fastfetch
+dolphin
 ```
-### Recommended!
+### Recommended
 ```
 NVChad
+Equibop
+
 ```
  
 </details>
 
+
+---
 
 
 
