@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ✦ hyprrumi ✦
+# ✦ hyprrumi (wip) ✦
 
 <p>
   <img src="https://img.shields.io/github/last-commit/xzepyx/nucleus-shell?style=for-the-badge&color=FFC1A4&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit" />
@@ -10,10 +10,6 @@
 </p>
 
 </div>
-
-
-## WIP (the dotfiles will be posted soon. wait how did u find this??)
-
 
 <h2 align="center"> Gallery </h2>
 
