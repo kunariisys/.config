@@ -14,10 +14,6 @@
 
 ## WIP (the dotfiles will be posted soon. wait how did u find this??)
 
-> [!IMPORTANT]
-> if you would like to use this
-> check out [installation](#installation).
->
 
 <h2 align="center"> Gallery </h2>
 
