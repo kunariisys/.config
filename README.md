@@ -1,7 +1,9 @@
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&pause=1000&color=C5C3C1&background=FFC1A4A4&center=true&vCenter=true&width=567&height=150&lines=hyprumi"><img>
 
 # ✦ hyprrumi ✦
+
 
 <p>
   <img src="https://img.shields.io/github/last-commit/xzepyx/nucleus-shell?style=for-the-badge&color=FFC1A4&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit" />
@@ -23,7 +25,7 @@
 > check out [installation](#installation).
 >
 
-<h2 align="center"> ❤ Gallery ❤</h2>
+<h2 align="center"> Gallery </h2>
 
 ![1](pictures/example1.png)
 
