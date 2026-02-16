@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=C5C3C1&background=FFC1A4A4&center=true&vCenter=true&width=435&lines=hyprumi)](https://git.io/typing-svg)
+
+</p>
 
 ## WIP (the dotfiles will be posted soon. wait how did u find this??)
 
