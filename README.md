@@ -15,7 +15,7 @@
 
 <h2 align="center"> Overview </h2>
 
-
+A clean config for Hyprland, using waybar.
 
 ## 🚧 TODO
 
@@ -60,6 +60,7 @@ catnap
 fastfetch
 dolphin
 hyprlock
+sddm
 ```
 ### Recommended
 ```
@@ -81,7 +82,7 @@ List of programs and tools I use.
 | Terminal 🖥️       | [kitty](https://github.com/kovidgoyal/kitty)        |
 | Shell 🐚          | [fish](https://fishshell.com/)
 | Fetch 🖼️          | [catnip](https://github.com/iinsertNameHere/catnip)
-| File Manager 📁   | [ranger](https://github.com/ranger/ranger)      |
+| File Manager 📁   | [dolphin](https://wiki.archlinux.org/title/Dolphin)      |
 | Editor 📝         | [neovim](https://github.com/neovim/neovim) / [nvchad](https://github.com/NvChad/NvChad)     |
 | Browser 🌐        | [zen](https://zen-browser.app/)
 | Bar 📊            | [waybar](https://github.com/Alexays/Waybar)      |
@@ -114,5 +115,8 @@ List of programs and tools I use.
 | `$mainMod + Shift + [0–9]` | Move window to workspace |
 | `$mainMod + Scroll` | Switch workspace |
 | `LMB / RMB + Drag` | Move or Resize window |
+
+## Special Thanks
+
 
 
