@@ -5,6 +5,8 @@
 
 <p>
   <img src="https://img.shields.io/github/last-commit/xzepyx/nucleus-shell?style=for-the-badge&color=FFC1A4&logo=git&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/shell-fish-FFC1A4?style=for-the-badge&logo=gnu-bash&logoColor=D9E0EE&labelColor=1E202B" alt="Shell: fish" />
+
 
 
 </p>
