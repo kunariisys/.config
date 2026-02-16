@@ -1,8 +1,16 @@
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&pause=1000&color=C5C3C1&background=FFC1A4A4&center=true&vCenter=true&width=567&height=150&lines=hyprumi" alt="Typing SVG" />
-  </a>
+
+# ✦ hyprrumi ✦
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/xzepyx/nucleus-shell?style=for-the-badge&color=FFC1A4&logo=git&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit" />
+
+
+</p>
+
 </div>
+
 
 ## WIP (the dotfiles will be posted soon. wait how did u find this??)
 
