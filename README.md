@@ -11,6 +11,18 @@
 
 </div>
 
+---
+
+<h2 align="center"> Overview </h2>
+
+#### Todo:
+
+## 🚧 TODO
+
+- [ ] Add GTK theme config
+
+
+
 <h2 align="center"> Gallery </h2>
 
 ![1](pictures/example1.png)
